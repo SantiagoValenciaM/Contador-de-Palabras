@@ -1,0 +1,2 @@
+Hola, este archivo de texto esta de prueba para el contador de palabras.
+En total deben ser 18.
